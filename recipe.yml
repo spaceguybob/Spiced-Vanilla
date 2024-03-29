@@ -19,6 +19,11 @@ modules:
   type: apt
   source:
     packages:
+    - gamescope
+    - mangoapp
+    - alacritty
+    - steam-libs
+    - steam-devices
     - gnome-tweaks
     - gparted
 
